@@ -17,7 +17,7 @@ const searchButton = document.getElementById('search-button');
 // Initialize the app
 async function init() {
     // Check if API key is set
-    if (API_KEY === 'f33afbb7fa651d56205f15cc81695e75') {
+    if (API_KEY === 'YOUR_TMDB_API_KEY_HERE') {
         showApiKeyMessage();
         return;
     }
