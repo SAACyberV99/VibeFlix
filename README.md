@@ -1,6 +1,6 @@
 # 🎬 VibeFlix - Movie Discovery App
 
-A modern, feature-rich movie discovery application powered by The Movie Database (TMDb) API. Search, browse, sort, and explore thousands of movies with a sleek, Netflix-inspired interface.
+A modern, feature-rich movie discovery application powered by The Movie Database (TMDb) API, designed with Manus AI, and built with Claude AI. Search, browse, sort, and explore thousands of movies with a sleek, Netflix-inspired interface.
 
 ## ✨ Features
 
